@@ -5,7 +5,7 @@ namespace GeorgeUtils
 {
 	public class gInput : MonoBehaviour {
 
-		// 
+		// Needs doing!
 
 	}
 }
